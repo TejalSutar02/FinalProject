@@ -1,0 +1,21 @@
+EmployeeID,Department,JobRole,Salary,Attrition,YearsAtCompany,YearsSinceLastPromotion,Gender,Age,SalaryBand,PromotionInLast2Years,Attrition_Flag,Department_Encoded,Gender_Encoded,SalaryBand_Encoded,Promotion_Flag
+1,Sales,Sales Executive,58000,Yes,3,1,Male,28,Low,Yes,1,3,1,1,1
+2,HR,HR Manager,76000,No,7,2,Female,35,Medium,Yes,0,1,0,2,1
+3,IT,Software Engineer,89000,No,4,3,Male,30,High,No,0,2,1,0,0
+4,Finance,Financial Analyst,67000,Yes,2,2,Female,29,Medium,Yes,1,0,0,2,1
+5,Sales,Sales Manager,92000,No,8,4,Male,40,High,No,0,3,1,0,0
+6,IT,Data Scientist,105000,No,6,1,Male,32,Very High,Yes,0,2,1,3,1
+7,HR,Recruiter,48000,Yes,1,1,Female,26,Low,Yes,1,1,0,1,1
+8,Finance,Accountant,58000,No,5,3,Female,31,Low,No,0,0,0,1,0
+9,IT,Systems Engineer,71000,Yes,3,1,Male,27,Medium,Yes,1,2,1,2,1
+10,Sales,Sales Executive,60000,No,2,2,Female,28,Low,Yes,0,3,0,1,1
+11,Finance,Financial Analyst,68000,No,5,3,Male,33,Medium,No,0,0,1,2,0
+12,HR,Recruiter,50000,Yes,1,1,Female,25,Low,Yes,1,1,0,1,1
+13,IT,Software Engineer,93000,No,4,3,Male,31,High,No,0,2,1,0,0
+14,Sales,Sales Executive,61000,No,3,2,Female,29,Medium,Yes,0,3,0,2,1
+15,HR,HR Specialist,72000,Yes,6,2,Female,34,Medium,Yes,1,1,0,2,1
+16,Finance,Accountant,59000,No,5,2,Male,32,Low,Yes,0,0,1,1,1
+17,IT,Data Scientist,108000,No,7,1,Male,36,Very High,Yes,0,2,1,3,1
+18,Sales,Sales Manager,95000,No,8,5,Female,41,High,No,0,3,0,0,0
+19,Finance,Accountant,62000,Yes,2,1,Female,28,Medium,Yes,1,0,0,2,1
+20,IT,Systems Engineer,75000,No,4,2,Male,30,Medium,Yes,0,2,1,2,1
